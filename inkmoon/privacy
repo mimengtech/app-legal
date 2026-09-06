@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta
+    name="description"
+    content="Privacy Policy for the Inkmoon iOS app."
+  >
+  <title>Inkmoon Privacy Policy</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --background: #f7f4ed;
+      --card: #ffffff;
+      --text: #292722;
+      --secondary: #68645c;
+      --accent: #735c3d;
+      --border: #e4ded2;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      background: var(--background);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Helvetica, Arial, sans-serif;
+      line-height: 1.7;
+    }
+
+    main {
+      width: 100%;
+      max-width: 760px;
+      margin: 40px auto;
+      padding: 40px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      box-shadow: 0 8px 30px rgba(45, 39, 30, 0.06);
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 8px;
+      font-size: 36px;
+      line-height: 1.2;
+    }
+
+    h2 {
+      margin-top: 32px;
+      font-size: 22px;
+    }
+
+    p {
+      color: var(--secondary);
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    .updated {
+      margin-bottom: 32px;
+      font-size: 15px;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      color: var(--secondary);
+      font-size: 14px;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 12px;
+      }
+
+      main {
+        margin: 12px auto;
+        padding: 24px;
+      }
+
+      h1 {
+        font-size: 30px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <header>
+      <h1>Inkmoon Privacy Policy</h1>
+      <p class="updated">Last updated: September 6, 2026</p>
+    </header>
+
+    <section>
+      <p>
+        Inkmoon is designed to provide a private, offline-first experience.
+        This Privacy Policy explains how information is handled when you use
+        the Inkmoon iOS app.
+      </p>
+    </section>
+
+    <section>
+      <h2>Data Collection</h2>
+      <p>
+        Inkmoon does not collect, store, sell, or share your personal data.
+        We do not use advertising SDKs, analytics SDKs, or cross-app tracking
+        technologies.
+      </p>
+    </section>
+
+    <section>
+      <h2>Accounts</h2>
+      <p>
+        Inkmoon does not require registration or a user account.
+      </p>
+    </section>
+
+    <section>
+      <h2>Local Data</h2>
+      <p>
+        Saved poems, reading preferences, language settings, appearance
+        settings, and notification preferences are stored locally on your
+        device.
+      </p>
+      <p>
+        Some preferences and daily-poem information may be shared locally
+        between Inkmoon and its Home Screen widgets using Apple’s App Group
+        technology. This information is not sent to Inkmoon or its developer.
+      </p>
+    </section>
+
+    <section>
+      <h2>Notifications</h2>
+      <p>
+        If you enable daily poem notifications, Inkmoon schedules them locally
+        through Apple’s notification system. Inkmoon does not use remote push
+        notifications and does not upload a device token.
+      </p>
+    </section>
+
+    <section>
+      <h2>System Sharing</h2>
+      <p>
+        When you choose to share a poem, Inkmoon uses Apple’s system share
+        sheet. Information is only sent to the service or person you select.
+        The privacy practices of that selected service are governed by its own
+        privacy policy.
+      </p>
+    </section>
+
+    <section>
+      <h2>Third-Party Services</h2>
+      <p>
+        Inkmoon does not include third-party advertising, analytics, social
+        networking, or user-tracking services.
+      </p>
+    </section>
+
+    <section>
+      <h2>Children’s Privacy</h2>
+      <p>
+        Inkmoon does not knowingly collect personal information from children
+        or any other users.
+      </p>
+    </section>
+
+    <section>
+      <h2>Data Deletion</h2>
+      <p>
+        Because Inkmoon does not maintain user accounts or remote user
+        databases, there is no server-side personal data to delete. You can
+        remove locally stored Inkmoon data by deleting the app from your
+        device.
+      </p>
+    </section>
+
+    <section>
+      <h2>Changes to This Policy</h2>
+      <p>
+        We may update this Privacy Policy if Inkmoon’s features or legal
+        requirements change. The latest version will always be published on
+        this page.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <p>
+        If you have questions about this Privacy Policy, contact:
+      </p>
+      <p>
+        <a href="mailto:mimengtechcto@163.com">mimengtechcto@163.com</a>
+      </p>
+    </section>
+
+    <footer>
+      © 2026 Inkmoon. All rights reserved.
+    </footer>
+  </main>
+</body>
+</html>
